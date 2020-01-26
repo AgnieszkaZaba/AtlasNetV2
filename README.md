@@ -123,3 +123,4 @@ This work was partly supported by ANR project EnHerit ANR-17-CE23-0008, Labex Be
 ## License
 
 [MIT](https://github.com/ThibaultGROUEIX/AtlasNet/blob/master/license_MIT)
+.
